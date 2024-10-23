@@ -1,14 +1,8 @@
 # The Site Configuration
 
-# Import the theme
 theme: jekyll-theme-chirpy
-
-# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
-# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
-# otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
@@ -16,7 +10,7 @@ timezone: Asia/Shanghai
 
 title: Lucas's Blog # the main title
 
-tagline: Blockchain Technology
+tagline: Lucas's Blockchain Technology
 
 description: >- # used by seo meta and the atom feed
   Lucas's Blog | Blockchain Technology
@@ -28,8 +22,8 @@ url: "https://lucas556.github.io"
 github:
   username: lucas556 # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+  # username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +32,7 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
