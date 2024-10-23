@@ -2,7 +2,7 @@
 title: Rustup安装
 date: 2023-09-09 09:29:09 +0800
 categories: [environment]
-tags: [golang]
+tags: [Rustup]
 ---
 
 依赖环境 Rustup 安装：
