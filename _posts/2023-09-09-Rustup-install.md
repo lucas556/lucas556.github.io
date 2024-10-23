@@ -7,7 +7,7 @@ tags: [Rustup]
 
 依赖环境 Rustup 安装：
 
-'''
+'''shell
 mkdir -p $HOME/.cargo
 # vim $HOME/.cargo/config
 
@@ -18,7 +18,7 @@ replace-with = 'ustc'
 registry = "git://mirrors.ustc.edu.cn/crates.io-index"
 '''
 
-'''
+'''shell
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 # vim ~/.bashrc
