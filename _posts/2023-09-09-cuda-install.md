@@ -12,7 +12,6 @@ CUDA运算需要安装NVCC
 wget https://developer.download.nvidia.com/compute/cuda/11.2.2/local_installers/cuda_11.2.2_460.32.03_linux.run
 sudo sh cuda_11.2.2_460.32.03_linux.run
 ```
-![安装cuda选择](https://images.gitee.com/uploads/images/2021/1014/030021_1b028343_9824584.png "135872463-ada01968-9f31-49bb-b129-ab3b6f2cdee1.png")
 
 ```
 # set PATH
